@@ -2,95 +2,104 @@
 
 # Mayuran S
 
-### Founder @ TechSenz · R&D Engineer
+### Founder @ TechSenZ · R&D Engineer
 
-**Embedded systems, RF, firmware and connected products.**
+**Embedded Systems · RF & Wireless · Firmware · IoT · Product Development**
 
-I like working where hardware stops being just hardware  
-and starts becoming a complete product.
+I work where hardware, firmware, wireless communication  
+and software come together as a complete product.
 
-[TechSenz](https://techsenz.com) ·
-[TechSenz GitHub](https://github.com/techsenzofficial) ·
+[TechSenZ](https://techsenz.com) ·
+[TechSenZ GitHub](https://github.com/techsenzofficial) ·
 [LinkedIn](https://www.linkedin.com/in/mayuran99/)
 
 </div>
 
 ---
 
-## What I do
+## What I Do
 
 I work across the boundary between **electronics and software**.
 
-That usually means moving between things like:
+Most of my engineering work involves some combination of:
 
-`MCU firmware`  
-`RF communication`  
-`PCB and hardware integration`  
-`device protocols`  
-`debugging and validation`  
-`BLE / IoT`  
-`software interfaces`
+`MCU Firmware` · `RF Communication` · `PCB & Hardware` ·  
+`Communication Protocols` · `Debugging` · `Validation` ·  
+`BLE` · `IoT` · `Engineering Software`
 
-I am most interested in engineering problems where several of these areas have to work together.
+I am particularly interested in projects where several engineering disciplines
+have to work together rather than being developed independently.
 
 ---
 
-## Two sides of my work
+## Founder @ TechSenZ
 
-### TechSenz
-
-I founded **TechSenz** to build engineering products and solutions across
+I founded **TechSenZ** to build practical technology solutions across
 embedded systems, IoT, connected devices and software.
 
-The idea behind TechSenz is simple:
+The direction behind TechSenZ is simple:
 
-> Build complete systems — not isolated pieces of hardware or software.
+> **Build complete systems — not isolated pieces of hardware or software.**
+
+Our work combines:
+
+- Embedded hardware
+- Firmware
+- IoT
+- Connected devices
+- Engineering software
+- Prototyping
+- Product development
 
 🌐 [techsenz.com](https://techsenz.com)  
 💻 [github.com/techsenzofficial](https://github.com/techsenzofficial)
 
-### R&D Engineering
+---
 
-My professional engineering work is focused heavily on embedded and wireless systems.
+## R&D Engineering
 
-I spend time on:
+My professional engineering work is focused heavily on
+**embedded and wireless systems**.
 
-- firmware architecture
+I spend much of my time working with:
+
+- Firmware architecture
 - RF communication
 - MCU peripherals
-- hardware bring-up
-- debugging
-- test automation
-- validation
-- product-level engineering decisions
+- Hardware bring-up
+- Communication protocols
+- Debugging
+- Test automation
+- Hardware / firmware integration
+- Validation
+- Product-level engineering decisions
 
-A large part of this work lives in private repositories.
+A significant amount of this work is maintained in private repositories.
 
 ---
 
-## Where I spend most of my engineering time
+## Engineering Stack
 
 ### Embedded
 
 `C` · `C++` · `STM32` · `STM32WL` · `ESP32` · `nRF52`
 
-`UART` · `SPI` · `I²C` · `GPIO` · `ADC`
+`UART` · `USART` · `SPI` · `I²C` · `GPIO` · `ADC`
 
-### Wireless
+### RF & Wireless
 
 `Sub-GHz RF` · `FHSS` · `BLE`
 
-`packet communication` · `device pairing`
-
-`wireless configuration` · `RF testing`
+`Packet Communication` · `Device Pairing` ·  
+`Wireless Configuration` · `RF Testing`
 
 ### Hardware
 
-`Altium Designer` · `PCB design` · `MCU integration`
+`Altium Designer` · `PCB Design` · `MCU Integration`
 
-`power architecture` · `sensor interfaces`
+`Power Architecture` · `Sensor Interfaces` · `RF Hardware`
 
-`logic analyzers` · `oscilloscopes` · `ST-LINK`
+`Logic Analyzer` · `Oscilloscope` · `ST-LINK`
 
 ### Software
 
@@ -98,32 +107,34 @@ A large part of this work lives in private repositories.
 
 `Next.js` · `React` · `Node.js`
 
-I use software mainly as another engineering tool —
-for automation, test systems, dashboards and connected products.
+I mainly use software as another engineering layer —
+for automation, device interfaces, dashboards, testing and connected products.
 
 ---
 
-## How I usually approach a product
+## From Idea to Product
 
 ```text
-problem
+Problem
    ↓
-system architecture
+Requirements
    ↓
-hardware + firmware
+System Architecture
    ↓
-first prototype
+Hardware + Firmware
    ↓
-something does not work
+Prototype
    ↓
-measure it
+Measure
    ↓
-debug it
+Debug
    ↓
-fix the actual cause
+Fix the Root Cause
    ↓
-test again
+Test
    ↓
-validate
+Validate
    ↓
-refine
+Refine
+   ↓
+Product
