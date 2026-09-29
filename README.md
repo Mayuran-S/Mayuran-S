@@ -206,11 +206,12 @@ This GitHub is gradually becoming a home for selected work around:
 ### TechSenZ
 
 🌐 [techsenz.com](https://techsenz.com)  
-💻 [github.com/techsenzofficial](https://github.com/techsenzofficial)
+✉️ [info@techsenz.com](mailto:info@techsenz.com)
 
 ### Radiometrix
 
 🌐 [radiometrix.com](https://radiometrix.com)
+✉️ [info@radiometrix.com](mailto:info@radiometrix.com)
 
 ---
 
