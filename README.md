@@ -13,6 +13,7 @@ come together as a complete product.
 
 [TechSenZ](https://techsenz.com) ·
 [TechSenZ GitHub](https://github.com/techsenzofficial) ·
+[Radiometrix](https://radiometrix.com) ·
 [LinkedIn](https://www.linkedin.com/in/mayuran99/)
 
 </div>
@@ -21,7 +22,8 @@ come together as a complete product.
 
 ## About
 
-I'm the **Founder of TechSenZ** and an **R&D Engineer at Radiometrix**,
+I'm the **Founder of [TechSenZ](https://techsenz.com)** and an
+**R&D Engineer at [Radiometrix](https://radiometrix.com)**,
 working across embedded systems, RF and wireless communication, firmware,
 hardware integration and connected product development.
 
@@ -32,8 +34,8 @@ and RF communication to PCB integration, debugging, automation and software.
 
 ## Founder @ TechSenZ
 
-I founded **TechSenZ** to develop practical technology across embedded systems,
-IoT, connected devices and software.
+I founded **[TechSenZ](https://techsenz.com)** to develop practical technology
+across embedded systems, IoT, connected devices and software.
 
 > **Build complete systems — not isolated pieces of hardware or software.**
 
@@ -48,8 +50,8 @@ Our work connects:
 
 ## R&D Engineer @ Radiometrix
 
-My professional engineering work at **Radiometrix** focuses on
-embedded and wireless systems.
+My professional engineering work at **[Radiometrix](https://radiometrix.com)**
+focuses on embedded and wireless systems.
 
 I work across:
 
@@ -64,6 +66,9 @@ I work across:
 - Engineering documentation
 
 A significant part of this work is maintained in private repositories.
+
+🌐 [radiometrix.com](https://radiometrix.com)  
+✉️ [mayuran@radiometrix.com](mailto:mayuran@radiometrix.com)
 
 ---
 
@@ -194,13 +199,18 @@ This GitHub is gradually becoming a home for selected work around:
 
 ### Mayuran S
 
-[GitHub](https://github.com/Mayuran-S) ·
-[LinkedIn](https://www.linkedin.com/in/mayuran99/)
+💼 [LinkedIn](https://www.linkedin.com/in/mayuran99/)  
+💻 [GitHub](https://github.com/Mayuran-S)  
+✉️ [mayuran@radiometrix.com](mailto:mayuran@radiometrix.com)
 
 ### TechSenZ
 
-[Website](https://techsenz.com) ·
-[GitHub](https://github.com/techsenzofficial)
+🌐 [techsenz.com](https://techsenz.com)  
+💻 [github.com/techsenzofficial](https://github.com/techsenzofficial)
+
+### Radiometrix
+
+🌐 [radiometrix.com](https://radiometrix.com)
 
 ---
 
