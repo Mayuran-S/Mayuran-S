@@ -1,177 +1,129 @@
 <div align="center">
 
-# Hi, I'm Mayuran 👋
+# Mayuran S
 
-### R&D Engineer · Embedded Systems · RF & Wireless · Firmware · IoT
+### Founder @ TechSenz · R&D Engineer
 
-Building practical products by connecting  
-**hardware, firmware, wireless communication and software.**
+**Embedded systems, RF, firmware and connected products.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayuran-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayuran99/)
-[![Website](https://img.shields.io/badge/Website-techsenz.com-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://techsenz.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Mayuran--S-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mayuran-S)
+I like working where hardware stops being just hardware  
+and starts becoming a complete product.
+
+[TechSenz](https://techsenz.com) ·
+[TechSenz GitHub](https://github.com/techsenzofficial) ·
+[LinkedIn](https://www.linkedin.com/in/mayuran99/)
 
 </div>
 
 ---
 
-## About Me
+## What I do
 
-I'm an **R&D Engineer** working across embedded systems, wireless communication,
-firmware development, hardware integration, testing and connected product development.
+I work across the boundary between **electronics and software**.
 
-My work combines electronics and software — from MCU firmware and communication
-protocols to RF systems, debugging, automation and application development.
+That usually means moving between things like:
 
-I enjoy taking products from **concept → prototype → testing → refinement**.
+`MCU firmware`  
+`RF communication`  
+`PCB and hardware integration`  
+`device protocols`  
+`debugging and validation`  
+`BLE / IoT`  
+`software interfaces`
 
----
-
-## Engineering Focus
-
-- 📡 RF & Wireless Communication
-- ⚙️ Embedded Systems
-- 💾 Firmware Development
-- 🔌 Hardware–Firmware Integration
-- 🌐 IoT & Connected Devices
-- 🔬 Testing, Debugging & Validation
-- 🧪 Engineering Automation
-- 🧩 Product Prototyping
+I am most interested in engineering problems where several of these areas have to work together.
 
 ---
 
-## Embedded & Firmware
+## Two sides of my work
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode" />
-</p>
+### TechSenz
 
-**MCUs & Platforms**
+I founded **TechSenz** to build engineering products and solutions across
+embedded systems, IoT, connected devices and software.
 
-`STM32` · `STM32WL` · `ESP32` · `nRF52`
+The idea behind TechSenz is simple:
 
-**Interfaces & Communication**
+> Build complete systems — not isolated pieces of hardware or software.
 
-`UART` · `USART` · `SPI` · `I²C` · `BLE` · `Sub-GHz RF`
+🌐 [techsenz.com](https://techsenz.com)  
+💻 [github.com/techsenzofficial](https://github.com/techsenzofficial)
 
-**Firmware Areas**
+### R&D Engineering
 
-`Low-Power Systems` · `Wireless Protocols` · `Bootloaders` ·
-`Device Configuration` · `Testing` · `Debugging`
+My professional engineering work is focused heavily on embedded and wireless systems.
 
----
+I spend time on:
 
-## RF & Wireless
+- firmware architecture
+- RF communication
+- MCU peripherals
+- hardware bring-up
+- debugging
+- test automation
+- validation
+- product-level engineering decisions
 
-My engineering interests include:
-
-- Sub-GHz wireless systems
-- FHSS communication
-- RF module development
-- Packet-based communication
-- Wireless device configuration
-- Secure device communication
-- Antenna and RF matching fundamentals
-- RF testing and validation
+A large part of this work lives in private repositories.
 
 ---
 
-## Hardware Engineering
+## Where I spend most of my engineering time
 
-Working with:
+### Embedded
 
-- Embedded hardware design
-- MCU peripheral integration
-- Sensors and communication modules
-- Power-supply design
-- PCB schematic review
-- PCB layout and debugging
-- Logic analyzers and oscilloscopes
-- Hardware validation
+`C` · `C++` · `STM32` · `STM32WL` · `ESP32` · `nRF52`
 
-### Engineering Tools
+`UART` · `SPI` · `I²C` · `GPIO` · `ADC`
 
-`Altium Designer` · `STM32CubeMX` · `STM32CubeIDE` ·
-`ST-LINK` · `Logic Analyzer` · `Git`
+### Wireless
 
----
+`Sub-GHz RF` · `FHSS` · `BLE`
 
-## Software & IoT
+`packet communication` · `device pairing`
 
-My software background helps me build complete connected systems.
+`wireless configuration` · `RF testing`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python" />
-</p>
+### Hardware
 
-**Technologies**
+`Altium Designer` · `PCB design` · `MCU integration`
 
-`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` ·
-`REST APIs` · `BLE Web Applications`
+`power architecture` · `sensor interfaces`
 
----
+`logic analyzers` · `oscilloscopes` · `ST-LINK`
 
-## Current Engineering Areas
+### Software
 
-Currently developing and expanding my knowledge in:
+`Python` · `TypeScript` · `JavaScript`
 
-- Embedded wireless products
-- STM32-based RF systems
-- FHSS communication
-- Low-power embedded design
-- BLE-connected devices
-- PCB and RF hardware design
-- Secure firmware update systems
-- IoT product architecture
+`Next.js` · `React` · `Node.js`
+
+I use software mainly as another engineering tool —
+for automation, test systems, dashboards and connected products.
 
 ---
 
-## Selected Projects
-
-### 📡 Embedded Wireless Platform
-
-Development work involving embedded firmware, wireless communication,
-device configuration, validation and hardware integration.
-
-**Areas:**  
-`STM32` · `Sub-GHz RF` · `FHSS` · `C` · `Firmware` · `Testing`
-
-> Commercial development details remain private.
-
----
-
-### 🫀 Wearable Sensing Platform
-
-Prototype wearable platform combining sensing, wireless communication
-and embedded processing.
-
-**Areas:**  
-`BLE` · `PPG` · `IMU` · `GNSS` · `Embedded Systems` · `Signal Processing`
-
----
-
-### 📊 ESP32 Sensor Dashboard
-
-Connected sensor platform for acquiring and visualizing embedded sensor data.
-
-**Areas:**  
-`ESP32-S3` · `BLE` · `Next.js` · `TypeScript` · `Real-time Data`
-
----
-
-## Engineering Workflow
+## How I usually approach a product
 
 ```text
-Requirements
-     ↓
-Architecture
-     ↓
-Hardware + Firmware
-     ↓
-Prototype
-     ↓
-Debug & Test
-     ↓
-Validation
-     ↓
-Product
+problem
+   ↓
+system architecture
+   ↓
+hardware + firmware
+   ↓
+first prototype
+   ↓
+something does not work
+   ↓
+measure it
+   ↓
+debug it
+   ↓
+fix the actual cause
+   ↓
+test again
+   ↓
+validate
+   ↓
+refine
