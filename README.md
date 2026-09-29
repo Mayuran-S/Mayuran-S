@@ -10,7 +10,7 @@
 
 # Mayuran S
 
-### Founder @ [TechSenZ](https://techsenz.com) · R&D Engineer @ Radiometrix
+### Founder @ [TechSenZ](https://techsenz.com) · R&D Engineer @ [Radiometrix](https://Radiometrix.com)
 
 **Embedded Systems · RF & Wireless · Firmware · IoT · Product Development**
 
