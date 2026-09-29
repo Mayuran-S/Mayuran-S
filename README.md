@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/mayuran-github-header.png"
+    src="./assets/embedded_wireless_engineering_banner.png"
     alt="Mayuran S — Founder at TechSenZ and R&D Engineer at Radiometrix"
     width="100%"
   />
