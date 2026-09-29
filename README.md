@@ -1,8 +1,16 @@
+<p align="center">
+  <img
+    src="./assets/mayuran-github-header.png"
+    alt="Mayuran S — Founder at TechSenZ and R&D Engineer at Radiometrix"
+    width="100%"
+  />
+</p>
+
 <div align="center">
 
 # Mayuran S
 
-### Founder @ TechSenZ · R&D Engineer
+### Founder @ [TechSenZ](https://techsenz.com) · R&D Engineer @ Radiometrix
 
 **Embedded Systems · RF & Wireless · Firmware · IoT · Product Development**
 
@@ -17,18 +25,16 @@ and software come together as a complete product.
 
 ---
 
-## What I Do
+## About
 
-I work across the boundary between **electronics and software**.
+I am the **Founder of TechSenZ** and an **R&D Engineer at Radiometrix**.
 
-Most of my engineering work involves some combination of:
+My work spans embedded systems, RF and wireless communication, firmware,
+hardware integration, debugging, testing and connected product development.
 
-`MCU Firmware` · `RF Communication` · `PCB & Hardware` ·  
-`Communication Protocols` · `Debugging` · `Validation` ·  
-`BLE` · `IoT` · `Engineering Software`
-
-I am particularly interested in projects where several engineering disciplines
-have to work together rather than being developed independently.
+I enjoy engineering problems where several layers need to work together —
+from MCU firmware and RF communication to PCB-level integration,
+automation and application software.
 
 ---
 
@@ -41,14 +47,15 @@ The direction behind TechSenZ is simple:
 
 > **Build complete systems — not isolated pieces of hardware or software.**
 
-Our work combines:
+Our focus includes:
 
-- Embedded hardware
+- Embedded product development
 - Firmware
-- IoT
+- IoT systems
 - Connected devices
 - Engineering software
 - Prototyping
+- Hardware and software integration
 - Product development
 
 🌐 [techsenz.com](https://techsenz.com)  
@@ -56,29 +63,29 @@ Our work combines:
 
 ---
 
-## R&D Engineering
+## R&D Engineer @ Radiometrix
 
-My professional engineering work is focused heavily on
-**embedded and wireless systems**.
+My professional engineering work at **Radiometrix** is focused mainly on
+embedded and wireless systems.
 
-I spend much of my time working with:
+My work includes areas such as:
 
-- Firmware architecture
-- RF communication
-- MCU peripherals
-- Hardware bring-up
+- Embedded firmware development
+- RF and wireless communication
+- MCU peripherals and interfaces
 - Communication protocols
+- Hardware–firmware integration
+- Hardware bring-up
 - Debugging
 - Test automation
-- Hardware / firmware integration
-- Validation
-- Product-level engineering decisions
+- Product validation
+- Engineering documentation
 
-A significant amount of this work is maintained in private repositories.
+A significant part of this work is maintained in private repositories.
 
 ---
 
-## Engineering Stack
+## Where I Work Technically
 
 ### Embedded
 
@@ -107,12 +114,12 @@ A significant amount of this work is maintained in private repositories.
 
 `Next.js` · `React` · `Node.js`
 
-I mainly use software as another engineering layer —
-for automation, device interfaces, dashboards, testing and connected products.
+I use software as another engineering layer —
+for automation, test tools, dashboards, device interfaces and connected products.
 
 ---
 
-## From Idea to Product
+## From Problem to Product
 
 ```text
 Problem
