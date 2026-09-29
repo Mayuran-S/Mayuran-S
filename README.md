@@ -1,73 +1,177 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="./assets/github-banner.png" width="100%" alt="Mayuran - R&D Engineer">
+<div align="center">
+
+# Hi, I'm Mayuran 👋
+
+### R&D Engineer · Embedded Systems · RF & Wireless · Firmware · IoT
+
+Building practical products by connecting  
+**hardware, firmware, wireless communication and software.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayuran-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayuran99/)
+[![Website](https://img.shields.io/badge/Website-techsenz.com-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://techsenz.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Mayuran--S-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mayuran-S)
+
+</div>
+
+---
+
+## About Me
+
+I'm an **R&D Engineer** working across embedded systems, wireless communication,
+firmware development, hardware integration, testing and connected product development.
+
+My work combines electronics and software — from MCU firmware and communication
+protocols to RF systems, debugging, automation and application development.
+
+I enjoy taking products from **concept → prototype → testing → refinement**.
+
+---
+
+## Engineering Focus
+
+- 📡 RF & Wireless Communication
+- ⚙️ Embedded Systems
+- 💾 Firmware Development
+- 🔌 Hardware–Firmware Integration
+- 🌐 IoT & Connected Devices
+- 🔬 Testing, Debugging & Validation
+- 🧪 Engineering Automation
+- 🧩 Product Prototyping
+
+---
+
+## Embedded & Firmware
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode" />
 </p>
 
-<h1 align="center">Hi, I'm Mayuran 👋</h1>
+**MCUs & Platforms**
 
-<p align="center">
-  R&D Engineer • Embedded Systems • RF & Wireless • IoT • Firmware
+`STM32` · `STM32WL` · `ESP32` · `nRF52`
+
+**Interfaces & Communication**
+
+`UART` · `USART` · `SPI` · `I²C` · `BLE` · `Sub-GHz RF`
+
+**Firmware Areas**
+
+`Low-Power Systems` · `Wireless Protocols` · `Bootloaders` ·
+`Device Configuration` · `Testing` · `Debugging`
+
+---
+
+## RF & Wireless
+
+My engineering interests include:
+
+- Sub-GHz wireless systems
+- FHSS communication
+- RF module development
+- Packet-based communication
+- Wireless device configuration
+- Secure device communication
+- Antenna and RF matching fundamentals
+- RF testing and validation
+
+---
+
+## Hardware Engineering
+
+Working with:
+
+- Embedded hardware design
+- MCU peripheral integration
+- Sensors and communication modules
+- Power-supply design
+- PCB schematic review
+- PCB layout and debugging
+- Logic analyzers and oscilloscopes
+- Hardware validation
+
+### Engineering Tools
+
+`Altium Designer` · `STM32CubeMX` · `STM32CubeIDE` ·
+`ST-LINK` · `Logic Analyzer` · `Git`
+
+---
+
+## Software & IoT
+
+My software background helps me build complete connected systems.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python" />
 </p>
 
-<p align="center">
-  Building practical products by bringing hardware, firmware and software together.
-</p>
+**Technologies**
+
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` ·
+`REST APIs` · `BLE Web Applications`
 
 ---
 
-## 👨‍💻 About Me
+## Current Engineering Areas
 
-I'm an R&D Engineer working across embedded systems, RF and wireless technologies,
-firmware development, hardware integration, testing and IoT product development.
+Currently developing and expanding my knowledge in:
 
-My background also includes software development, allowing me to work across
-hardware, firmware, automation and application development.
-
----
-
-## ⚡ Engineering Focus
-
-🛰️ RF & Wireless Communication  
-⚙️ Embedded Systems  
-📡 IoT & Connected Devices  
-💻 Firmware Development  
-🔧 Hardware–Software Integration  
-🧪 Testing, Debugging & Automation  
+- Embedded wireless products
+- STM32-based RF systems
+- FHSS communication
+- Low-power embedded design
+- BLE-connected devices
+- PCB and RF hardware design
+- Secure firmware update systems
+- IoT product architecture
 
 ---
 
-## 🛠️ Technologies
+## Selected Projects
 
-### Embedded & Engineering
+### 📡 Embedded Wireless Platform
 
-`C` `C++` `Python` `Git` `GitHub`  
-`UART` `SPI` `I²C` `BLE` `RF` `IoT`
+Development work involving embedded firmware, wireless communication,
+device configuration, validation and hardware integration.
 
-### Software
+**Areas:**  
+`STM32` · `Sub-GHz RF` · `FHSS` · `C` · `Firmware` · `Testing`
 
-`JavaScript` `TypeScript` `React` `Next.js`
-
----
-
-## 🚀 Current Direction
-
-Exploring and developing solutions in:
-
-- Embedded product development
-- Wireless communication
-- IoT devices
-- Sensors & wearable technology
-- Hardware testing and automation
-- Edge AI & TinyML
+> Commercial development details remain private.
 
 ---
 
-## 📂 Public Projects
+### 🫀 Wearable Sensing Platform
 
-Engineering projects and tools will be published here progressively.
+Prototype wearable platform combining sensing, wireless communication
+and embedded processing.
+
+**Areas:**  
+`BLE` · `PPG` · `IMU` · `GNSS` · `Embedded Systems` · `Signal Processing`
 
 ---
 
-<p align="center">
-  <b>Build • Test • Learn • Improve</b>
-</p>
+### 📊 ESP32 Sensor Dashboard
+
+Connected sensor platform for acquiring and visualizing embedded sensor data.
+
+**Areas:**  
+`ESP32-S3` · `BLE` · `Next.js` · `TypeScript` · `Real-time Data`
+
+---
+
+## Engineering Workflow
+
+```text
+Requirements
+     ↓
+Architecture
+     ↓
+Hardware + Firmware
+     ↓
+Prototype
+     ↓
+Debug & Test
+     ↓
+Validation
+     ↓
+Product
