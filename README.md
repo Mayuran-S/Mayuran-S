@@ -44,7 +44,7 @@ Our work connects:
 **Hardware · Firmware · Wireless · IoT · Software · Product Development**
 
 🌐 [techsenz.com](https://techsenz.com)  
-💻 [github.com/techsenzofficial](https://github.com/techsenzofficial)
+✉️ [info@techsenz.com](mailto:info@techsenz.com)
 
 ---
 
